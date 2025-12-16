@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kulusienko
 - 👀 I’m interested in game programing
 - 🌱 I’m currently learning C++
-- ⚡ Fun fact: I can make pizza really
+- ⚡ Fun fact: I can make pizza, really
 
 <!---
 Kulusienko/Kulusienko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
